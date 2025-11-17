@@ -1,6 +1,7 @@
 MediChain (MDC) - Decentralized Medical Data Platform
 🏥 Overview
 MediChain is a blockchain-based healthcare platform that empowers patients to own, control, and monetize their medical data while enabling researchers to access anonymized health information for breakthrough discoveries. The platform also facilitates clinical trial matching and pharmaceutical supply chain verification.
+
 🌟 Key Features
 
 Patient-Owned Medical Records: Encrypted health data stored on IPFS, fully controlled by patients
