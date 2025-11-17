@@ -12,18 +12,29 @@ Data Marketplace: Patients earn MDC tokens by contributing anonymized data to re
 
 Clinical Trial Matching: Smart contract-based trial enrollment with automated compensation  
 
-Drug Supply Chain Tracking: Track medications from manufacturer to patient, eliminate counterfeits
-Granular Access Control: Grant/revoke access to medical records with time-based expiration
-Transparent Reward System: Automatic token distribution for data contributions
+Drug Supply Chain Tracking: Track medications from manufacturer to patient, eliminate counterfeits  
+
+Granular Access Control: Grant/revoke access to medical records with time-based expiration  
+
+Transparent Reward System: Automatic token distribution for data contributions  
+
 
 📋 Table of Contents
 
-Architecture
-Smart Contracts
-Installation
-Deployment
-Usage Examples
-Testing
-Security
-Contributing
+Architecture  
+
+Smart Contracts  
+
+Installation  
+
+Deployment  
+
+Usage Examples  
+
+Testing  
+
+Security  
+
+Contributing  
+
 License
