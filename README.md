@@ -40,26 +40,6 @@ Contributing
 License
 
 
-┌─────────────────────────────────────────────────────────┐
-│                    Frontend Layer                        │
-│            (React + Web3.js + IPFS Client)              │
-└────────────────────┬────────────────────────────────────┘
-                     │
-┌────────────────────▼────────────────────────────────────┐
-│               Smart Contracts Layer                      │
-├──────────────────────────────────────────────────────────┤
-│  • MediChainToken (ERC20)                               │
-│  • MedicalRecordsRegistry                               │
-│  • DataMarketplace                                       │
-│  • ClinicalTrialMatching                                │
-│  • DrugSupplyChain                                       │
-└────────────────────┬────────────────────────────────────┘
-                     │
-┌────────────────────▼────────────────────────────────────┐
-│          Blockchain Network (Ethereum/Polygon)          │
-│                  + IPFS Storage Layer                    │
-└─────────────────────────────────────────────────────────┘
-
 
 
 <img width="1770" height="766" alt="Screenshot 2025-11-17 131407" src="https://github.com/user-attachments/assets/8d3ad6a1-cc9f-4a8c-9903-1f6560f3daaa" />
